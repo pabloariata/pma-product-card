@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en ProductTitle Debe de mostrar el componente con el titulo personalizado 1`] = `
+<span
+  className="productDescription clase-custom"
+>
+  Titulo Custom
+</span>
+`;
+
+exports[`Pruebas en ProductTitle Debe de mostrar el titulo por defecto si no se especifica un titulo 1`] = `
+<div
+  className="productCard undefined"
+>
+  <span
+    className="productDescription undefined"
+  >
+    Coffee Mug!
+  </span>
+</div>
+`;
